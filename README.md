@@ -1,2 +1,1 @@
-# gitdemosession
-Git Demo Session
+welcome to git session
